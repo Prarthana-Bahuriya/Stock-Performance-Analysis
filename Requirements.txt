@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+yahoo_fin
+matplotlib
+seaborn
+mplfinance
+scikit-learn
+tensorflow # Keras is typically included with TensorFlow
+statsmodels
+pmdarima
+prophet
